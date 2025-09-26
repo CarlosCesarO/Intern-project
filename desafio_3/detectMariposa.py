@@ -1,8 +1,3 @@
-import streamlit as st
-from roboflow import Roboflow
-from PIL import Image
-import os
-
 import streamlit as st  # Importa o Streamlit para criar a interface web
 from roboflow import Roboflow  # Importa a biblioteca Roboflow para usar o modelo de detecção
 from PIL import Image  # Importa a PIL para manipulação de imagens
